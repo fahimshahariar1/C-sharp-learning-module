@@ -32,6 +32,8 @@ namespace Datatypes
             int realage = Convert.ToInt32(fahimage);
             Console.WriteLine(realage);
 
+            bool isJoss = true;
+
             Console.ReadLine();
         }
     }
