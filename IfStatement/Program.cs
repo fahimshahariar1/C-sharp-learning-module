@@ -23,7 +23,7 @@ namespace IfStatement
 
             Double finalReturn = income + (amount * month);
 
-            if (finalReturn <= 150000)
+            if (finalReturn <= 150000 && finalReturn == 0)
             {
                 Console.WriteLine(finalReturn);
                 Console.WriteLine("You will not get a good return!");
