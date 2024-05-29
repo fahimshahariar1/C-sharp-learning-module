@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddEvenChecker", "OddEvenCh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleInputOutput", "ConsoleInputOutput\ConsoleInputOutput.csproj", "{47F974A6-D425-4E82-8B07-0E44501ED537}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IfStatement", "IfStatement\IfStatement.csproj", "{6ECC3EEE-C03D-48E6-B650-9BD67C7F13D7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,10 @@ Global
 		{47F974A6-D425-4E82-8B07-0E44501ED537}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47F974A6-D425-4E82-8B07-0E44501ED537}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47F974A6-D425-4E82-8B07-0E44501ED537}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6ECC3EEE-C03D-48E6-B650-9BD67C7F13D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ECC3EEE-C03D-48E6-B650-9BD67C7F13D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ECC3EEE-C03D-48E6-B650-9BD67C7F13D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ECC3EEE-C03D-48E6-B650-9BD67C7F13D7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
