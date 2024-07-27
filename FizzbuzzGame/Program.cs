@@ -14,7 +14,7 @@ namespace FizzbuzzGame
 
             for (int i = 1; i <= 15; i++)
             {
-                bool threediv = i % 3 == 0;   // for better readibility and if the condition changes top divide by other number we
+                bool threediv = i % 3 == 0;   // for better readibility and if the condition changes to divide by other number we
                 bool fivediv = i % 5 == 0;   //can simply chnage it here. we won't have to change in everywhere
 
                 if (threediv && fivediv)
