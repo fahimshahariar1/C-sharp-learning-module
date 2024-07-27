@@ -30,10 +30,7 @@ namespace TryParse
                 }
 
             }
-
-
-
-
+  
 
             Console.ReadLine();
 
