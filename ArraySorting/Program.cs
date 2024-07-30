@@ -20,6 +20,22 @@ namespace ArraySorting
                 Console.WriteLine(i);
             }
 
+            Console.WriteLine();
+
+            Console.Write("Enter Number to search: ");
+            int search = Convert.ToInt32(Console.ReadLine());
+
+            int position = Array.IndexOf(numbers, search); 
+
+            if (position > -1) {
+                
+                Console.WriteLine("Number Has been found");
+            }
+            else
+            {
+                Console.WriteLine("Number has not been found");
+            }
+
              
 
             Console.ReadLine();
