@@ -18,6 +18,8 @@ namespace Lists
 
             numberslist.Add(1);
             Console.WriteLine(numberslist.Contains(2));
+            
+            //There are many other functions for the list
 
 
             foreach (int number in numberslist)
