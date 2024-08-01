@@ -39,7 +39,7 @@ namespace OddEvenNumberSplit
 
             foreach (int i in list1)
             {
-                Console.Write($"{i } ");
+                Console.Write($"{i} ");
             }
 
 
