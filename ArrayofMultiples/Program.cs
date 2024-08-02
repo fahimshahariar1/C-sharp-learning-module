@@ -13,7 +13,7 @@ namespace ArrayofMultiples
 
             int num = 7;
             int length = 5;
-            int counter = 0;
+            int counter = 0; 
 
             int[] result = new int[length];
 
