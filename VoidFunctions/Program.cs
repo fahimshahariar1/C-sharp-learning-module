@@ -12,15 +12,16 @@ namespace VoidFunctions
         {
 
             Console.Write("Enter Your name: ");
-            String name = Console.ReadLine();
+            String userName = Console.ReadLine();
 
-            Welcome(name);
+            Welcome(userName);
 
 
             Console.ReadLine();
 
         }
 
+        //We can create other functions or methods to make the code readble and more reusable
         static void Welcome(String name)
         {
             Console.WriteLine($"Hey {name}, Welcome to the code");
