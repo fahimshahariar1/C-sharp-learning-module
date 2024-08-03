@@ -15,14 +15,15 @@ namespace SumIntArray
 
             int result = SumofNumbers(numbers);
 
-            if (result > -1)
+            /*if (result > -1)
             {
                 Console.WriteLine($"The total is: {result}");
             }
             else
             {
                 Console.WriteLine("The array can not be empty");
-            }
+            }*/
+
 
             if (SumofNumbers(numbers, out int total))
             {
