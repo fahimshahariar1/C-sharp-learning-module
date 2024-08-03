@@ -57,6 +57,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumIntArray", "SumIntArray\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCatch.csproj", "{A69F132C-C2FA-48E7-8BB9-8E69D1B52E8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTryParse", "CustomTryParse\CustomTryParse.csproj", "{A4C0BBFB-CD27-4A0F-9A5C-7FD551463128}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -167,6 +169,10 @@ Global
 		{A69F132C-C2FA-48E7-8BB9-8E69D1B52E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A69F132C-C2FA-48E7-8BB9-8E69D1B52E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A69F132C-C2FA-48E7-8BB9-8E69D1B52E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C0BBFB-CD27-4A0F-9A5C-7FD551463128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C0BBFB-CD27-4A0F-9A5C-7FD551463128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C0BBFB-CD27-4A0F-9A5C-7FD551463128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C0BBFB-CD27-4A0F-9A5C-7FD551463128}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
