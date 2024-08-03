@@ -29,10 +29,10 @@ namespace TryCatch
                 Console.WriteLine("Enter Number less than 2 billion");
 
             }
-            catch (Exception) 
+            catch (Exception e) 
             {
-
-                Console.WriteLine("Wrong Input");
+               
+                Console.WriteLine($"Wrong Input {e.Message}");
 
             }
 
