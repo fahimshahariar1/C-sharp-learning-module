@@ -15,4 +15,8 @@ Unfortunately, we don't learn about C# in our academics. Most of the universitie
 It is mostly used in enterprises or industries.
 
 I learned how powerful C# is after I joined Ding.
-So I started to learn it. This is the basics of C# which I am learning from freecodecamp
+So I started to learn it. This is the basics of C# which I am learning from freecodecamp.
+
+link: https://youtu.be/YrtFtdTTfv0?si=qiYioXcJhCn_vSGq
+
+After this, I will switch to advanced C# or .net will create a repository for that as well.
