@@ -7,8 +7,12 @@ Whether its
 1. Desktop Application
 2. Mobile Application
 3. Web Application
-4. Games etc 
+4. Games
+5. Artificial Intelligence etc.
 Anything
 
-Unfortunately, we don't get to learn about C# in our academics. Most of the universities don't really focus on this.
-It is mostly used in enterprise or industry
+Unfortunately, we don't learn about C# in our academics. Most of the universities don't focus on this.
+It is mostly used in enterprises or industries.
+
+I learned how powerful C# is after I joined Ding.
+So I started to learn it. This is the basics of C# which I am learning from freecodecamp
