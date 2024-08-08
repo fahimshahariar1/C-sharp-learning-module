@@ -30,5 +30,23 @@ namespace CustomTryParse
 
             Console.ReadLine();
         }
+
+        static bool TryParse(String input, out int result)
+        {
+
+            result = -1;
+
+            try
+            {
+                result = Convert.ToInt32(input);
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+                throw;
+            }
+
+        }
     }
 }

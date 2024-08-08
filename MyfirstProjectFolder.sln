@@ -59,6 +59,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TryCatch", "TryCatch\TryCat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTryParse", "CustomTryParse\CustomTryParse.csproj", "{A4C0BBFB-CD27-4A0F-9A5C-7FD551463128}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structures", "Structures\Structures.csproj", "{8267CB5B-56A3-4717-9606-467FC8284F7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -173,6 +175,10 @@ Global
 		{A4C0BBFB-CD27-4A0F-9A5C-7FD551463128}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A4C0BBFB-CD27-4A0F-9A5C-7FD551463128}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A4C0BBFB-CD27-4A0F-9A5C-7FD551463128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8267CB5B-56A3-4717-9606-467FC8284F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8267CB5B-56A3-4717-9606-467FC8284F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8267CB5B-56A3-4717-9606-467FC8284F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8267CB5B-56A3-4717-9606-467FC8284F7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
