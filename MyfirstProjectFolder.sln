@@ -61,6 +61,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomTryParse", "CustomTry
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structures", "Structures\Structures.csproj", "{8267CB5B-56A3-4717-9606-467FC8284F7C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{7471D263-B925-47A6-98DA-334417A82875}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,6 +181,10 @@ Global
 		{8267CB5B-56A3-4717-9606-467FC8284F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8267CB5B-56A3-4717-9606-467FC8284F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8267CB5B-56A3-4717-9606-467FC8284F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7471D263-B925-47A6-98DA-334417A82875}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7471D263-B925-47A6-98DA-334417A82875}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7471D263-B925-47A6-98DA-334417A82875}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7471D263-B925-47A6-98DA-334417A82875}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
