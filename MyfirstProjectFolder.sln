@@ -63,6 +63,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structures", "Structures\St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{7471D263-B925-47A6-98DA-334417A82875}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassFunction", "ClassFunction\ClassFunction.csproj", "{35754E1F-A8C9-4FE5-A957-3B305F7D52E4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -185,6 +187,10 @@ Global
 		{7471D263-B925-47A6-98DA-334417A82875}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7471D263-B925-47A6-98DA-334417A82875}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7471D263-B925-47A6-98DA-334417A82875}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35754E1F-A8C9-4FE5-A957-3B305F7D52E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35754E1F-A8C9-4FE5-A957-3B305F7D52E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35754E1F-A8C9-4FE5-A957-3B305F7D52E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35754E1F-A8C9-4FE5-A957-3B305F7D52E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

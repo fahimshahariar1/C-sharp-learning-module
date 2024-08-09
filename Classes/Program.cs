@@ -8,7 +8,8 @@ namespace Classes
 {
     internal class Program
     {
-
+        //Classes are like structres but with more flexibility
+        //it is recommended to use classes for better usability
         class Person
         {
             public int Id;
