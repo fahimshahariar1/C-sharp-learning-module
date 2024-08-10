@@ -21,7 +21,9 @@ namespace ClassFunction
             }
 
            
-
+            //We can create functions inside classes to gewt more reusability of the code
+            //Remember making functions inside a class will not allow other claases to access that as it is 
+           //local to that particular class only
             public string ReturnDetails()
             {
                return $"Hi, {Name}, Your Id is {Id}";
