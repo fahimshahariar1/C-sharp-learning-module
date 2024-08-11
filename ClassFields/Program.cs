@@ -68,7 +68,7 @@ namespace ClassFields
             person.SetId(1);
 
             Console.WriteLine();
-            Console.WriteLine($"Your name is {person.Name} & ID is {person.Id}");
+            Console.WriteLine($"Your name is {person.GetName()} & ID is {person.GetId()}");
 
             Console.ReadLine();
 
