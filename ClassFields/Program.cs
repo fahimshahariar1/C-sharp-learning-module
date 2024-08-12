@@ -31,6 +31,8 @@ namespace ClassFields
                 }
             }
 
+            //Rather than using Get set differently we can use the default auto implemented properties recommended by C# 
+
             public string GetName()
             { return this.Name; }
 
@@ -57,12 +59,19 @@ namespace ClassFields
                 return $"Hi, {Name}, Your Id is {Id}";
             }
 
+            public override string ToString()
+            {
+                return $"Hi, {Name}, Your Id is {Id}";
+            }
+
         }
         static void Main(string[] args)
         {
 
             Person person = new Person(1031, "Fahim");
             Console.WriteLine(person.ReturnDetails());
+
+            Console.WriteLine(person.ToString());
 
             person.SetName("");
             person.SetId(1);
