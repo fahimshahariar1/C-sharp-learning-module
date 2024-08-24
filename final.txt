@@ -1,0 +1,9 @@
+So as I have finished this course/tutorial I will not be using this repository as well.
+Whatever I have learned in this course I have implemented and created a project that you can find ⬇️
+
+  link: https://github.com/fahimshahariar1/TeamManagementSystem
+
+Up next I will be switching to ASP.Net. To build some web apps with the help of C# and gain knowledge about ASP.Net
+which you can keep track of or find here. https://github.com/fahimshahariar1/ASP.Net
+
+Thank you so much
